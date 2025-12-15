@@ -29,7 +29,7 @@ Each notebook is self-contained and includes explanations, code, and outputs.
 
 ---
 
-## 🧪 Lab Overview
+## Lab Overview
 
 The labs cover topics such as:
 
